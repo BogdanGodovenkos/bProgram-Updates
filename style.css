@@ -1,3 +1,7 @@
 .ss-text{
   font-family: sans-serif;
 }
+
+.textarea-borders{
+ borders: 21px; 
+}
